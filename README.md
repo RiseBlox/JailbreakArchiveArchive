@@ -16,113 +16,60 @@ Maps that have been saved using exploits (Such as Synapse X).
 | Update | Year | Has Map? | Has Saved ReplicatedStorage? | Has Decompiled Scripts? | Notes | Credits/Source |
 | - | - | - | - | - | - | - |
 | [`April 22nd (Release Patch #1)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/April%2022nd%20(Release%20Patch%20%231).rbxl)      | 2017          |  Yes     | Yes                    | Yes                        | Scripts and others are on a folder named "game" located in Workspace, you must put them in their proper places before making them work (I don't wanna open this file with modern Studio, as it may cause compatibility issues).   | Saved by unknown |
-
 | [`Aerial Vehicle Shooting Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/Aerial%20Vehicle%20Shooting%20Update.rbxl)     | 2017          |  Yes     | Yes                    | No                         | N/A | Fixed by `@fged`, as it originally had broken meshes, saved by unknown. |
-
 | [`Museum Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2018/Museum%20Update.rbxl)                      | 2018          |  Yes     | Yes                    | No                         | N/A                                                    | Found by [`@CfwSky`](https://github.com/CfwSky), saved by unknown |
-
 | [`Post-Winter Update (January)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Post-Winter%20Update%20(Jan%202019).rbxl) | 2019  | Yes | No | [^1] | N/A | [Saved by @Shine_Goku on Roblox](https://www.roblox.com/games/2806744260/01-02-2019-Jailbreak-Uncopylocked) |
-
 | [`Passenger Train Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Passenger%20Train%20Update.rbxl)             | 2019          |  Yes     | Yes                    | Yes                        | [^1]                                                    | Saved by unknown |
-
 | [`City & Weapons Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/City%20&%20Weapons%20Update.rbxl) | 2019 | Yes | Yes | Yes  | [^1] | Saved by unknown |
-
 | [`Season 2`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Season%202%20.rbxl)                          | 2019          |  Yes     | Yes                    | No                         | [^1]                                                    | Saved by unknown |
-
 | [`Power Plant/JetSki Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2019/Power%20Plant%20Update.rbxl) | 2019 | Yes | Yes | Yes  | [^1] | Saved by unknown |
-
 | [`Winter Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Winter%20Update.rbxl)                      | 2019          |  Yes     | Yes                    | No                         | [^1]                                                    | Saved by unknown |
-
 | [`HD Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2020/HD%20Update.rbxl)                          | 2020          |  Yes     | Yes                    | No                         | [^1]                                                   | Saved by unknown |
-
 | [`3 Years Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2020/3%20Years%20Update.rbxl)                     | 2020          |  Yes     | Yes                    | Almost (Missing Client Scripts) | [^1]                                              | Saved by unknown |
-
 | [`Blade Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2020/Blade%20Update.rbxl)                       | 2020          |  Yes     | Yes                    | Almost (Missing Client Scripts | [^1]                                               | Saved by unknown |
-
 | [`Winter Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2020/Winter%20Update.rbxl)                      | 2020          |  Yes     | Yes                    | Almost (Missing LocalScript) | N/A                                                  | Saved by unknown |
-
 | [`Season 2`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/Season%202.rbxl)                           | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
-
 | [`Season 4`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/Season%204.rbxl)                           | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
-
 | [`July Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/July%20Update.rbxl)                        | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
-
 | [`Season 6`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/Season%206.rbxl)                           | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@HazeWasTaken`](https://github.com/HazeWasTaken) |
-
 | [`Winter Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/Winter%20Update.rbxl)                      | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@HazeWasTaken`](https://github.com/HazeWasTaken) |
-
 | [`McLaren F1 Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/McLaren%20F1%20Update.rbxl)                  | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@HazeWasTaken`](https://github.com/HazeWasTaken) |
-
 | [`5 Years Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/5%20Years%20Update.rbxl)                     | 2022          |  Yes     | Yes                    | Yes                        | [^2]                                                    | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
-
 | [`5 Years Update #2`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2022/2022LEAssets.rbxl) | 2022 | Yes | Yes | No | Has some of the 2022 live event's assets | Found by [`@playervalley`](https://github.com/playervalley), saved by unknown) |
-
 | [`Season 9 Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Season%209%20Update.rbxl)                    | 2022          |  Yes     | Yes                    | Yes                        | [^2]                                                    | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
-
 | [`Season 10 Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Season%2010%20Update.rbxl)                   | 2022          |  Yes     | Yes                    | Yes                        | [^2]                                                    | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
-
 | [`Fast Travel Jets Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Fast%20Travel%20Jets%20Update.rbxl) | 2022 |  Yes | Yes | Yes (But with a bad decompiler) | [^3] | Saved by [`@Syngio`](https://github.com/Syngio) |
-
 | [`Season 11/NPC Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Season%2011%20Update.rbxl) | 2022 | Yes | Yes | No | N/A | Saved by unknown |
-
 | [`Season 12 Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Season%2012%20Update.rbxl)                   | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
-
 | [`Trading Hub Sneak-Peek`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Trading%20Hub%20Sneak-Peek.rbxl)             | 2022          |  Yes     | Yes                    | Yes (But with a bad decompiler) | [^3]                                                | Saved by [`@Syngio`](https://github.com/Syngio) |
-
 | [`Winter Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2022/Winter2022Decomp.rbxl)                      | 2022          |  Yes     | Yes                    | Yes                         | [^2]                                                   | Saved by `@ssroh` |
-
 | [`RB Battles Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/RB%20Battles%20Update.rbxl)                  | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
-
 | [`NASCAR 75th Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2023/NASCAR%2075th%20Update.rbxl) | 2023 |  Yes | Yes | Yes | [^2] | Saved by [`@officialrandomcringe`](https://github.com/officialrandomcringe) |
-
 | [`Crew Battles`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Crew-Battle-Update-Map-Uncopylocked-23.rbxl) | 2023 | Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
-
 | [`Dream Homes`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Dream-Homes-Update-Map-Uncopylocked-23.rbxl) | 2023 | Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
-
 | [`Season 14`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Season-14-Update-Map-Uncopylocked-2023.rbxl) | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
-
 | [`Season 15`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Season-15-Update-Map-Uncopylocked-2023.rbxl) | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
-
 | [`7 Billion Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/7%20Billion%20Update.rbxl)                   | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Season 20`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Jailbreak-Season-20-Update-Map-Uncopylocked-2024.rbxl) | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
-
 | [`Season 21`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/place_606849621_Jailbreak%20s21.rbxl) | 2024 | [^4] | Yes | Yes (But with a bad decompiler) | [^3] | Found by [`@playervalley`](https://github.com/playervalley), saved by `@goordn` |
-
 | [`Season 21 #2`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Jailbreak-Rewind-Update-Map-Uncopylocked-2024.rbxl) | 2024 | Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
-
 | [`Season 22`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/s22.rbxl) | 2024 | [^4] | Yes | Yes  | [^2] | Found by `@virgil48` & [`@playervalley`](https://github.com/playervalley), saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Fall Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/Fall%20Update.rbxl)                        | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`SWAT Event (With Obby)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/SWAT%20Event%20(With%20Obby).rbxl)             | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`SWAT Event`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/SWAT%20Event%20(With%20Obby).rbxl)                         | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Scorpion Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/Scorpion%20Update.rbxl)                    | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Winter Update (First Countdown)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Winter%20Update%20(First%20Countdown).rbxl) | 2024 |  Yes     | Yes                    | Yes                        | [^2]                                                    | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Winter Update (Mid Event Countdown)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Winter%20Update%20(Mid%20Countdown).rbxl) | 2024 | Yes | Yes | Yes | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Winter Update (After Countdown)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/Winter%20Update.rbxl) | 2024 |  Yes | Yes | Yes | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/Season%2025.rbxl) | 2025 | Yes | Yes | Yes  | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`April Fools`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/April%20Fools.rbxl) | 2025 | Yes | Yes | No | N/A |Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | **Trading Hub:** |
 | [`Release/Day 1`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/day-1-trade-hub-jaybleaks.rbxl) | 2022 | Yes | Yes | No | N/A | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
-
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | **Others:** |
 | [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/JailbreakOG_4_7_2025_Decompiled.rbxl) | 2024 | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-
 | [`CrimeMaker88's Place`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/CrimeMaker88s%20Place.rbxl) | 2025 | Yes | N/A | N/A | Place that asimo made for giving out a vehicle code | Saved by `@ssroh` |
-
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
 [^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to "Default" (So collisions on them aren't janky), because Synapse messed all of this up back in the day.
@@ -140,29 +87,17 @@ Files that have been modified or *re-scripted* so the game or some aspects of it
 | File | Year and Date | Description | Credits |
 | - | - | - | - |
 | [`First Public 2019 Release.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/First%20Public%202019%20Release.rbxl) | Based on early 2019, dated early 2023 | First release of Jailbreak 2019, it features a very awful codebase (it uses `Jailbreak_Dev_Build` as a base). Not recommended for any future work. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`Garage Customization 2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Garage%20Customization%202019.rbxl) | Based on early 2019, dated July 2023 |  Once leaked build of Jailbreak 2019, shares features with the one above, BUT, in this one, servers crash after certain time (because of oversights in the server-side code). | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`Jailbreak_2019_Uncopylocked_made_by_Joszelus.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Jailbreak_2019_Uncopylocked_made_by_Joszelus.rbxl) | Based on early 2019, dated early 2024? | **Publishing this game may get your account warned/banned**. Latest release of Jailbreak 2019 before getting remade from the ground up. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`Jailbreak_Dev_Build.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Jailbreak_Dev_Build.rbxl) | Based on early 2017, date N/A | Remake that uses XCrim, features highly inaccurate stuff (from the map, to the scripts themselves, except the ones in ReplicatedStorage). | Made by unknown |
-
 | [`jail2022.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/jail2022.rbxl) | Based on late 2022, dated late 2023 | Very messy and overall bad remake that drxck and I (Syngio) made, it uses a LOT of XCrim. Also, I know this isn't the original file, though, I don't have that on my hands anymore. | Made by [`@drxck`](https://github.com/drxckkk) and [`@Syngio`](https://github.com/Syngio) |
-
 | [`Jailbreak 2022 By CantCode.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/Jailbreak%202022%20By%20CantCode.rbxl) | Based on early 2022, dated May 8th, 2025 | **I am NOT responsible if you get banned by publishing this game** (Because the original game got taken down). Newest (and probably final) build of the winter 2022 re-script. So much better but so worse at the same time. | Made by [`@drxck`](https://github.com/drxckkk) and [`@Syngio`](https://github.com/Syngio) |
-
 | [`Winter 2018.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Winter%202018.rbxl) | Based on late 2018, dated 2023 | Remake that uses Jorzelek's first game as a base, that's all I need to say. | Made by [`@jaiIbreakbetafanmade`](https://www.roblox.com/users/3494624868/profile) |
-
 | [`Power Plant Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Power%20Plant%20Update.rbxl) | Based on mid 2019, dated 2023 | Same as above. | Made by [`@jaiIbreakbetafanmade`](https://www.roblox.com/users/3494624868/profile) on Roblox |
-
 | [`Jailbreak-Early-2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Jailbreak-Early-2019.rbxl) | Based on early 2019, dated early 2023 | First "good" public remake that I ever made, doesn't mean it's actually good though. | Made by [`@Syngio`](https://github.com/Syngio) |
-
 | [`Chassis2Beta.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/Chassis2Beta.rbxl) | Based on mid 2022, dated late 2022 | An old chassis reverse-engineering project that time forgot. Lacks a lot of vehicle features. | Made by [`@drxck`](https://github.com/drxckkk), `@MySisterMadeMePlayRB` & `@myster_xit`. Modified by [`@Syngio`](https://github.com/Syngio) to include more vehicles. |
-
 | [`Jailbreak_Beta.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/Jailbreak_Beta.rbxl) | Based on early 2017, dated june 2023 | Modified version of `Jailbreak_Dev_Build` designed to be more accurate. Unfinished & very broken. | Made by [`@playervalley`](https://github.com/playervalley) |
-
 | [`jailbreak 2018again.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/jailbreak%202018again.rbxl) | Based on late 2018, dated mid 2024 | Mostly finished winter update remake based on jorzelek's 2019 game, and uses sicko's map. | Made by [`@playervalley`](https://github.com/playervalley) |
-
 | [`JBCOPY.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/JBCOPY.rbxl) | Based on mid 2022, date N/A | Really broken season 11 remake using the Outlaw's code as a base. | Found by [`@playervalley`](https://github.com/playervalley), made by unknown |
 
 ### **Map remakes:**
@@ -172,61 +107,33 @@ Different update maps that people have remade.
 | File | Year | Update | Notes | Credits |
 | - | - | - | - | - |
 | [`[Update 19] Winter Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2019%5D%20Winter%20Update.rbxl) | 2017 | Winter Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
-
 | [`[Update 51] Map Expansion Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2051%5D%20Map%20Expansion%20Update.rbxl) | 2019 | Map Expansion Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
-
 | [`38. Jailbreak REWIND [Mega Robbery Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/38.%20Jailbreak%20REWIND%20%5BMega%20Robbery%20Update%5Drbxl.rbxl) | 2019 | Mega Robbery Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`40. Jailbreak REWIND [Fire Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/40.%20Jailbreak%20REWIND%20%5BFire%20Update%5D.rbxl) | 2019 | Fire Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`43. Jailbreak REWIND [Military Base Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/43.%20Jailbreak%20REWIND%20%5BMilitary%20Base%20Update%5D.rbxl) | 2019 | Military Base Update | It has an update countdown located at the server control building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`44. Jailbreak REWIND [Prison Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/44.%20Jailbreak%20REWIND%20%5BPrison%20Update%5D.rbxl) | 2019 | Prison Update | It has an update countdown located at the server control building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`46. Jailbreak REWIND [Helicopter Bombs Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/46.%20Jailbreak%20REWIND%20%5BHelicopter%20Bombs%20Update%5D.rbxl) | 2019 | Heli Bombs Update | It has an update countdown located at the server control building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`47. Jailbreak REWIND [Jewel Party Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/47.%20Jailbreak%20REWIND%20%5BJewel%20Party%20Update%5D.rbxl) | 2019 | Jewel Party Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`48. Jailbreak REWIND [Garage V1 (2 Year Anniversary Update)].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/48.%20Jailbreak%20REWIND%20%5BGarage%20V1%20(2%20Year%20Anniversary%20Update)%5D.rbxl) | 2019 | Garage V1 Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`49. Jailbreak REWIND [Jailbreak HD Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/49.%20Jailbreak%20REWIND%20%5BJailbreak%20HD%20Update%5D.rbxl) | 2019 | HD Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`50. Jailbreak REWIND [Garage V2 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/50.%20Jailbreak%20REWIND%20%5BGarage%20V2%20Update%5D.rbxl) | 2019 | Garage V2 Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`53. Jailbreak REWIND [Jetpack-Season 3 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/53.%20Jailbreak%20REWIND%20%5BJetpack-Season%203%20Update%5D.rbxl) | 2019 | Season 3 Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`54. Jailbreak REWIND [Plane Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/54.%20Jailbreak%20REWIND%20%5BPlane%20Update%5D.rbxl) | 2019 | Plane Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`57. Jailbreak REWIND [Melee Weapon Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/57.%20Jailbreak%20REWIND%20%5BMelee%20Weapon%20Update%5D.rbxl) | 2019 | Melee Weapon Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`58. Jailbreak REWIND [3 Billion Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/58.%20Jailbreak%20REWIND%20%5B3%20Billion%20Update%5D.rbxl) | 2019 | 3 Billion Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`59. Jailbreak REWIND [Season 4 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/59.%20Jailbreak%20REWIND%20%5BSeason%204%20Update%5D.rbxl) | 2019 | Season 4 Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`62. Jailbreak REWIND [HD Jetski Racing Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/62.%20Jailbreak%20REWIND%20%5BHD%20Jetski%20Racing%20Update%5D.rbxl) | 2020 | HD & Jetski Racing Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`63. Jailbreak REWIND [Gun Skins Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/63.%20Jailbreak%20REWIND%20%5BGun%20Skins%20Update%5D.rbxl) | 2020 | Gun Skins Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`64. Jailbreak REWIND [Flintlock Bonus Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/64.%20Jailbreak%20REWIND%20%5BFlintlock%20Bonus%20Update%5D.rbxl) | 2020 | Flintlock Bonus Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`65. Jailbreak REWIND [2020 LIVE EVENT].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/65..%20Jailbreak%20REWIND%20%5B2020%20LIVE%20EVENT%5D.rbxl) | 2020 | Pre-Oceans Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`66. Nukes Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/66.%20Nukes%20Update.rbxl) | 2020 | Nukes Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
-
 | [`67. Jailbreak REWIND [Cargo Ship Update]`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/67.%20Jailbreak%20REWIND%20%5BCargo%20Ship%20Update%5D.rbxl) | 2020 | Cargo Ship Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`68. Jailbreak REWIND [5 Days of Vehicles Event 2020]`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/68.%20Jailbreak%20REWIND%20%5B5%20Days%20of%20Vehicles%20Event%202020%5D.rbxl) | 2020 | 5 Days of Vehicles | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`69. Jailbreak REWIND [Revamped Power Plant]`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/69.%20Jailbreak%20REWIND%20%5BRevamped%20Power%20Plant%5D.rbxl) | 2020 | Power Plant Revamp | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`71. Jailbreak REWIND [Balance Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/71.%20Jailbreak%20REWIND%20%5BBalance%20Update%5D.rbxl) | 2020 | Balance Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`72. Jailbreak REWIND [Volcano Eruption].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/72.%20Jailbreak%20REWIND%20%5BVolcano%20Eruption%5D.rbxl) | 2020 | Volcano Eruption | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`73. Jailbreak REWIND [Town Revamp].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BTown%20Revamp%5D.rbxl) | 2020 | Town Revamp | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`73. Jailbreak REWIND [M12 Molten].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BM12%20Molten%5D.rbxl) | 2020 | M12 Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-
 | [`74. Jailbreak REWIND [Fall 2020].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/74.%20Jailbreak%20REWIND%20%5BFall%202020%5D.rbxl) | 2020 | Fall Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 
 # **File Suggestions**
