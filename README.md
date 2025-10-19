@@ -13,7 +13,7 @@ This repository's contents are divided in three different categories: saveinstan
 
 Maps that have been saved using exploits (Such as Synapse X).
 
-| Update | Year | Has Map? | Has Saved ReplicatedStorage? | Has Decompiled Scripts? | Notes | Credits/Source |
+| Update | Year | Has Map | Has Saved ReplicatedStorage | Has Decompiled Scripts | Notes | Credits/Source |
 | - | - | - | - | - | - | - |
 | [`April 22nd (Release Patch #1)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/April%2022nd%20(Release%20Patch%20%231).rbxl)      | 2017          |  Yes     | Yes                    | Yes                        | Scripts and others are on a folder named "game" located in Workspace, you must put them in their proper places before making them work (I don't wanna open this file with modern Studio, as it may cause compatibility issues).   | Saved by unknown |
 | [`Aerial Vehicle Shooting Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/Aerial%20Vehicle%20Shooting%20Update.rbxl)     | 2017          |  Yes     | Yes                    | No                         | N/A | Fixed by `@fged`, as it originally had broken meshes, saved by unknown. |
