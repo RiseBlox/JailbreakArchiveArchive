@@ -1,4 +1,3 @@
-<img width="422" height="294" alt="image" src="https://github.com/user-attachments/assets/963522f7-c6d2-40e6-8688-0718599aef82" />
 # **The Jailbreak Archive**
 Some Jailbreak place files that I have collected (or made) over time.
 
