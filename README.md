@@ -144,7 +144,7 @@ Different update maps that people have remade.
 | [`73. Jailbreak REWIND [Town Revamp].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BTown%20Revamp%5D.rbxl) | 2020 | Town Revamp | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`73. Jailbreak REWIND [M12 Molten].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BM12%20Molten%5D.rbxl) | 2020 | M12 Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`74. Jailbreak REWIND [Fall 2020].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/74.%20Jailbreak%20REWIND%20%5BFall%202020%5D.rbxl) | 2020 | Fall Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
-| [`season3map.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/season3map.rbxl) | 2021 | Season 3 Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
+| [`season3map.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/season3map.rbxl) | 2021 | Season 3 Update | Has nucleur's character model in a cell. | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, re-script or map remake), and I will make sure to include it in here!
