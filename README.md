@@ -69,7 +69,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | **Others:** |
 | [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/JailbreakOG_4_7_2025_Decompiled.rbxl) | 2024 | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-| [`CrimeMaker88's Place`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/CrimeMaker88s%20Place.rbxl) | 2025 | Yes | N/A | N/A | Place that asimo made for giving out a vehicle code | Saved by `@ssroh` |
+| [`CrimeMaker88's Place`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/CrimeMaker88s%20Place.rbxl) | 2025 | Yes | N/A | N/A | Place that asimo made for giving out a vehicle code. | Saved by `@ssroh` |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
 [^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to "Default" (So collisions on them aren't janky), because Synapse messed all of this up back in the day.
@@ -107,6 +107,7 @@ Different update maps that people have remade.
 | File | Year | Update | Notes | Credits |
 | - | - | - | - | - |
 | [`[Update 19] Winter Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2019%5D%20Winter%20Update.rbxl) | 2017 | Winter Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
+ [`33. Fall 2018 Update.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/33.%20Fall%202018%20Update.rbxl) | 2018 | Fall Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 | [`[Update 51] Map Expansion Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2051%5D%20Map%20Expansion%20Update.rbxl) | 2019 | Map Expansion Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 | [`38. Jailbreak REWIND [Mega Robbery Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/38.%20Jailbreak%20REWIND%20%5BMega%20Robbery%20Update%5Drbxl.rbxl) | 2019 | Mega Robbery Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`40. Jailbreak REWIND [Fire Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/40.%20Jailbreak%20REWIND%20%5BFire%20Update%5D.rbxl) | 2019 | Fire Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
@@ -119,6 +120,7 @@ Different update maps that people have remade.
 | [`50. Jailbreak REWIND [Garage V2 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/50.%20Jailbreak%20REWIND%20%5BGarage%20V2%20Update%5D.rbxl) | 2019 | Garage V2 Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`53. Jailbreak REWIND [Jetpack-Season 3 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/53.%20Jailbreak%20REWIND%20%5BJetpack-Season%203%20Update%5D.rbxl) | 2019 | Season 3 Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`54. Jailbreak REWIND [Plane Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/54.%20Jailbreak%20REWIND%20%5BPlane%20Update%5D.rbxl) | 2019 | Plane Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
+| [`55. Visitors & Ship Update.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/55.%20Visitors%20%26%20Ship%20Update.rbxl) | 2019 | Visitors & Ship Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 | [`57. Jailbreak REWIND [Melee Weapon Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/57.%20Jailbreak%20REWIND%20%5BMelee%20Weapon%20Update%5D.rbxl) | 2019 | Melee Weapon Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`58. Jailbreak REWIND [3 Billion Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/58.%20Jailbreak%20REWIND%20%5B3%20Billion%20Update%5D.rbxl) | 2019 | 3 Billion Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`59. Jailbreak REWIND [Season 4 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/59.%20Jailbreak%20REWIND%20%5BSeason%204%20Update%5D.rbxl) | 2019 | Season 4 Update | N/A | Made by [`@jorzelek`](https://github.com/Jorzelek) |
@@ -135,6 +137,7 @@ Different update maps that people have remade.
 | [`73. Jailbreak REWIND [Town Revamp].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BTown%20Revamp%5D.rbxl) | 2020 | Town Revamp | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`73. Jailbreak REWIND [M12 Molten].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BM12%20Molten%5D.rbxl) | 2020 | M12 Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`74. Jailbreak REWIND [Fall 2020].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/74.%20Jailbreak%20REWIND%20%5BFall%202020%5D.rbxl) | 2020 | Fall Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
+| [`season3map.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/season3map.rbxl) | 2021 | Season 3 Update | N/A | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, re-script or map remake), and I will make sure to include it in here!
