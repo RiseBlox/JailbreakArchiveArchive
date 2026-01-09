@@ -78,6 +78,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/JailbreakOG_4_7_2025_Decompiled.rbxl) | 2024 | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`CrimeMaker88's Place`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/CrimeMaker88s%20Place.rbxl) | 2025 | Yes | N/A | N/A | Place that asimo made for giving out a vehicle code. | Saved by `@ssroh` |
+| [`bladeExtract`](https://github.com/Syngio/JailbreakArchive/blob/a16bfe25c55ba2f409722e15ddf28a1040e28db5/saveinstances/other/bladeExtract.rbxl) | 2020 | N/A | N/A | N/A | 2020 UI from the blade update. Lacks UI padding. | Saved by `@rccservice.exe` |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
 [^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to "Default" (So collisions on them aren't janky), because Synapse messed all of this up back in the day.
