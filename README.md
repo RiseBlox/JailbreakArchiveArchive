@@ -1,5 +1,5 @@
 # **The Jailbreak Archive**
-Some Jailbreak place files that I have collected (or made) over time.
+Some Jailbreak place files that I have collected or made over time.
 
 You can use some of these place files to re-script the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
 
@@ -7,9 +7,9 @@ This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom
 
 # **Contents**
 
-This repository's contents are divided in three different categories: saveinstances, re-scripts & map remakes. Most of these are organized by year for ease of access.
+This repository's contents are divided in three different categories: saveinstances, re-scripts, map remakes & specific game assets. Most of these are organized by year for your comfort.
 
-### **Saveinstances:**
+### **Saveinstances**
 
 Maps that have been saved using exploits (Such as Synapse X).
 
@@ -87,7 +87,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 [^3]: Client scripts are NOT worth fixing.
 [^4]: Some or huge chunks of the map are missing.
 
-### **Re-scripts:**
+### **Re-scripts**
 
 > [!WARNING]
 > Please read the notes, as some of these files could get your account warned/terminated.
@@ -112,7 +112,7 @@ Files that have been modified or *re-scripted* so the game or some aspects of it
 | [`jb2024.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/rescripts/jb2024.rbxl) | Based on mid 2024, dated late 2024 | Unfinished 2024 remake, only has very basic features (has no functional robberies). Inaccurate and really buggy. | Made by [`@drxck`](https://github.com/drxckkk), [`@lovrewe`](https://github.com/lovrewe) and [`@Syngio`](https://github.com/Syngio) |
 | [`jb 2018.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/rescripts/jb%202018.rbxl) | Based on early 2018, dated late 2023 | Last remake I released to the public. Certainly accurate at first glance, but it's very buggy and incomplete. Uses code from jorzelek's early 2019 game. | Made by [`@Syngio`](https://github.com/Syngio) |
 
-### **Map remakes:**
+### **Map remakes**
 
 Different update maps that people have remade.
 
@@ -152,4 +152,4 @@ Different update maps that people have remade.
 | [`season3map.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/season3map.rbxl) | 2021 | Season 3 Update | Has nucleur's character model in a cell. | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 
 # **File Suggestions**
-File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, re-script or map remake), and I will make sure to include it in here!
+File suggestions are welcome. Just create an issue including your file(s), and I will make sure to include it/them in here!
