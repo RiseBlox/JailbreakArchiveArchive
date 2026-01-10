@@ -1,4 +1,4 @@
-<img width="495" height="509" alt="image" src="https://github.com/user-attachments/assets/4be45051-0788-4baf-b60c-2022104d22a4" /># **The Jailbreak Archive**
+**The Jailbreak Archive**
 Some Jailbreak place files that I have collected (or made) over time.
 
 You can use some of these place files to re-script the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
