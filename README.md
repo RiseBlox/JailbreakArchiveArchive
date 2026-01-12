@@ -9,6 +9,11 @@ This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom
 
 This repository's contents are divided in three different categories: saveinstances, re-scripts, map remakes & specific game assets. Most of these are organized by year for your comfort.
 
+### **Assets**
+
+A tab created by [`@nucleurwaste`](https://github.com/nucleurwaste) to give rare and unique assets for your recreation. This exists because not every save instance will have that of what you need.
+A quick and easy way to find what you need to get that 99% accuracy :).
+
 ### **Saveinstances**
 
 Maps that have been saved using exploits (Such as Synapse X).
