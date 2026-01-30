@@ -1,5 +1,5 @@
 # **The Jailbreak Archive**
-Some Jailbreak place files that I have collected (or made) over time.
+Some Jailbreak place files that I have collected or made over time.
 
 You can use some of these place files to re-script the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
 
@@ -7,9 +7,14 @@ This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom
 
 # **Contents**
 
-This repository's contents are divided in three different categories: saveinstances, re-scripts & map remakes. Most of these are organized by year for ease of access.
+This repository's contents are divided in three different categories: saveinstances, re-scripts, map remakes & specific game assets. Most of these are organized by year for your comfort.
 
-### **Saveinstances:**
+### **Assets**
+
+A tab created by [`@nucleurwaste`](https://github.com/nucleurwaste) to give rare and unique assets for your recreation. This exists because not every save instance will have that of what you need.
+A quick and easy way to find what you need to get that 99% accuracy :).
+
+### **Saveinstances**
 
 Maps that have been saved using exploits (Such as Synapse X).
 
@@ -18,7 +23,8 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`April 22nd (Release Patch #1)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/April%2022nd%20(Release%20Patch%20%231).rbxl) | 2017 |  Yes | Yes | Yes | Scripts and others are on a folder named "game" located in Workspace, you must put them in their proper places before making them work (I don't wanna open this file with modern Studio, as it may cause compatibility issues). | Saved by unknown |
 | [`Aerial Vehicle Shooting Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/Aerial%20Vehicle%20Shooting%20Update.rbxl)     | 2017          |  Yes     | Yes                    | No                         | N/A | Fixed by `@fged`, as it originally had broken meshes, saved by unknown. |
 | [`Museum Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2018/Museum%20Update.rbxl) | 2018 | Yes | Yes | No | N/A | Found by [`@CfwSky`](https://github.com/CfwSky), saved by unknown |
-| [`Post-Winter Update (January)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Post-Winter%20Update%20(Jan%202019).rbxl) | 2019 | Yes | No | [^1] | N/A | [Saved by @Shine_Goku on Roblox](https://www.roblox.com/games/2806744260/01-02-2019-Jailbreak-Uncopylocked) |
+| [`Post-Winter Update (January)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Post-Winter%20Update%20(Jan%202019).rbxl) | 2019 | Yes | No | No | [^1] | [Saved by @Shine_Goku on Roblox](https://www.roblox.com/games/2806744260/01-02-2019-Jailbreak-Uncopylocked) |
+| [`Post-Winter Update (January) 2`](https://github.com/Syngio/JailbreakArchive/raw/ee6f58d5202b6e121460d377dc9997cafc9f1cbe/saveinstances/2019/35.%20Post%20Winter%20Update%202018.rbxl) | 2019 | Yes | Yes | Yes | [^1] This is the other file but decompiled. Includes Train2. | Saved by [`@Yakov5776`](https://github.com/Yakov5776), found by `@ssroh` |
 | [`Passenger Train Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Passenger%20Train%20Update.rbxl) | 2019 | Yes | Yes | Yes | [^1] | Saved by unknown |
 | [`City & Weapons Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/City%20&%20Weapons%20Update.rbxl) | 2019 | Yes | Yes | Yes  | [^1] | Saved by unknown |
 | [`Season 2`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2019/Season%202%20.rbxl) | 2019 | Yes | Yes | No | [^1] | Saved by unknown |
@@ -33,6 +39,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Season 4`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/Season%204.rbxl)                           | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
 | [`July Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/July%20Update.rbxl)                        | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
 | [`Season 6`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/Season%206.rbxl)                           | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@HazeWasTaken`](https://github.com/HazeWasTaken) |
+| [`Season 6 Decompiled`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2021/85.%20NASCAR%20Mid-Season%20Update.rbxl)                           | 2021          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by [`@HazeWasTaken`](https://github.com/HazeWasTaken) |
 | [`Winter Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2021/Winter%20Update.rbxl)                      | 2021          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@HazeWasTaken`](https://github.com/HazeWasTaken) |
 | [`McLaren F1 Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/McLaren%20F1%20Update.rbxl)                  | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by [`@HazeWasTaken`](https://github.com/HazeWasTaken) |
 | [`5 Years Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/5%20Years%20Update.rbxl)                     | 2022          |  Yes     | Yes                    | Yes                        | [^2]                                                    | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
@@ -65,9 +72,12 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Winter Update (After Countdown)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/Winter%20Update.rbxl) | 2024 |  Yes | Yes | Yes | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/Season%2025.rbxl) | 2025 | Yes | Yes | Yes  | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`April Fools`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/April%20Fools.rbxl) | 2025 | Yes | Yes | No | N/A |Saved by [`@lovrewe`](https://github.com/lovrewe) |
+| [`The Epic Update`](https://github.com/Syngio/JailbreakArchive/raw/ee6f58d5202b6e121460d377dc9997cafc9f1cbe/saveinstances/2025/134.%20The%20Epic%20Update.rbxl) | 2025 | Yes | Yes | Yes | Lacks unions and terrain. Has all live events except 2020. | Saved by `@ssroh` |
 | [`Military Base Update`](https://github.com/Syngio/JailbreakArchive/blob/indev/saveinstances/2025/Jailbreak-Military-Update-Map-Uncopylocked.rbxl) | 2025 | Yes | Yes | Yes | Lacks unions. | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
 | [`Jewelry Store Revamp Update`](https://github.com/Syngio/JailbreakArchive/blob/indev/saveinstances/2025/Jailbreak-The-Jewel-Update-Map-Uncopylocked.rbxl) | 2025 | Yes | Yes | Yes | Lacks unions. | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
 | [`Bionic Update`](https://github.com/Syngio/JailbreakArchive/blob/indev/saveinstances/2025/Jailbreak-BlONlC-Update-Map-Uncopylocked.rbxl) | 2025 | Yes | Yes | Yes | Lacks unions. | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
+| [`Fall Season 29`](https://github.com/Syngio/JailbreakArchive/raw/ee6f58d5202b6e121460d377dc9997cafc9f1cbe/saveinstances/2025/season%2029%20no%20unions.rbxl) | 2025 | Yes | Yes | Yes | Lacks unions. | Saved by [`@Syngio`](https://github.com/Syngio) |
+| [`Winter Season 30`](https://github.com/Syngio/JailbreakArchive/raw/ee6f58d5202b6e121460d377dc9997cafc9f1cbe/saveinstances/2025/140.%202025%20Winter%20Update.rbxl) | 2025 | Yes | Yes | Yes | Lacks unions and terrain. Has all live events. Has a racetrack. | Saved by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 | **Trading Hub:** |
 | [`Release/Day 1`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/day-1-trade-hub-jaybleaks.rbxl) | 2022 | Yes | Yes | No | N/A | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
@@ -75,6 +85,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/JailbreakOG_4_7_2025_Decompiled.rbxl) | 2024 | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`CrimeMaker88's Place`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/CrimeMaker88s%20Place.rbxl) | 2025 | Yes | N/A | N/A | Place that asimo made for giving out a vehicle code. | Saved by `@ssroh` |
+| [`bladeExtract`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/bladeExtract.rbxl) | 2020 | N/A | N/A | N/A | 2020 UI from the blade update. Lacks UI padding. | Saved by `@rccservice.exe` |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
 [^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to "Default" (So collisions on them aren't janky), because Synapse messed all of this up back in the day.
@@ -82,7 +93,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 [^3]: Client scripts are NOT worth fixing.
 [^4]: Some or huge chunks of the map are missing.
 
-### **Re-scripts:**
+### **Re-scripts**
 
 > [!WARNING]
 > Please read the notes, as some of these files could get your account warned/terminated.
@@ -107,7 +118,7 @@ Files that have been modified or *re-scripted* so the game or some aspects of it
 | [`jb2024.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/rescripts/jb2024.rbxl) | Based on mid 2024, dated late 2024 | Unfinished 2024 remake, only has very basic features (has no functional robberies). Inaccurate and really buggy. | Made by [`@drxck`](https://github.com/drxckkk), [`@lovrewe`](https://github.com/lovrewe) and [`@Syngio`](https://github.com/Syngio) |
 | [`jb 2018.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/rescripts/jb%202018.rbxl) | Based on early 2018, dated late 2023 | Last remake I released to the public. Certainly accurate at first glance, but it's very buggy and incomplete. Uses code from jorzelek's early 2019 game. | Made by [`@Syngio`](https://github.com/Syngio) |
 
-### **Map remakes:**
+### **Map remakes**
 
 Different update maps that people have remade.
 
@@ -147,4 +158,4 @@ Different update maps that people have remade.
 | [`season3map.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/season3map.rbxl) | 2021 | Season 3 Update | Has nucleur's character model in a cell. | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 
 # **File Suggestions**
-File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, re-script or map remake), and I will make sure to include it in here!
+File suggestions are welcome. Just create an issue including your file(s), and I will make sure to include it/them in here!
